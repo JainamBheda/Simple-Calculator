@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(34, 33, 33);
+}
+.button{
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 0 3px;
+    border: 3px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width:66px;
+    font-size: 30px;
+}
+button:hover{
+    font-size: 35px;
+    
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    margin: 0;
+    padding: 15px 0px;
+    border:2px solid rgb(237, 227, 227);
+    border-radius: 20px;
+    font-size: 29px;
+    font-family: cursive;
+    background-color: rgb(57, 82, 10);
+    color: aliceblue;
+}
+
+#equal{
+    background-color: rgb(115, 182, 57);
+    font-family: cursive;
+}
+#air{
+    background-color: rgb(21, 144, 210);
+    font-family: cursive;
+}
+#clear{
+    background-color: rgb(165, 136, 29);
+    font-family: cursive;
+}
+#back{
+    background-color: rgb(210, 52, 16);
+    font-family: cursive;
+    font-weight: bolder;
+}
+#air:hover{
+    background-color: aqua;
+}
+#back:hover{
+    background-color: rgb(255, 0, 0);
+    font-family: cursive;
+    font-weight: bolder;
+}
+#clear:hover{
+    background-color: rgb(255, 200, 0);
+    font-family: cursive;
+}
+#equal:hover{
+    background-color: rgb(119, 255, 0);
+    font-family: cursive;
+}
