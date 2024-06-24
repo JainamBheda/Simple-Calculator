@@ -1,6 +1,8 @@
 
 # Simple Calculator
 
+Site is live at https://jainambheda.github.io/Simple-Calculator/
+
 This is a simple calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as square root calculation, clear, and backspace functionalities.
 
 ## Features
